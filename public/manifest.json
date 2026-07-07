@@ -1,0 +1,17 @@
+{
+  "name": "맛나리오",
+  "short_name": "맛나리오",
+  "description": "기억 속 맛을 AI와 레시피 DB로 복원하는 앱",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fff6f7",
+  "theme_color": "#ff8fab",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/assets/mascot-recipe.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
+}
