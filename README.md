@@ -11,7 +11,7 @@
 ## 🔗 배포 링크
 
 ```txt
-추후 Vercel 배포 URL을 입력하세요.
+https://matnario-pro-dgd3ocuqp-charmingzi1.vercel.app
 ```
 
 ---
