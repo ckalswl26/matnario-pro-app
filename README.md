@@ -11,7 +11,7 @@
 ## 🔗 배포 링크
 
 ```txt
-https://matnario-pro-dgd3ocuqp-charmingzi1.vercel.app
+https://matnario-pro-app-ny1r.vercel.app?_vercel_share=aDiIrKKUWQg0ZAMrcrf5dYtrJaC2SvbG
 ```
 
 ---
